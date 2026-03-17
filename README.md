@@ -12,7 +12,6 @@ This project demonstrates how to run a full MERN stack application using Docker 
 - Docker Compose
 
 ## Architecture
-
           User
            |
            v
@@ -24,6 +23,7 @@ React Frontend   Node.js API (/api)
                        |
                        v
                     MongoDB
+
 
                     
 ## Run the Project
