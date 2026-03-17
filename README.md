@@ -25,6 +25,7 @@ React Frontend   Node.js API (/api)
                        v
                     MongoDB
 
+                    
 ## Run the Project
 
 Clone the repository:
@@ -40,4 +41,16 @@ docker compose up --build
 
 Open your browser and visit:
 http://localhost
+
+## Project Structure
+
+Containerized-MERN-stack-Todo-Application
+│
+├── todoapp-backend
+│   └── Backend application files
+│
+├── todoapp-frontend
+│   └── Frontend application files
+│
+└── README.md
 
