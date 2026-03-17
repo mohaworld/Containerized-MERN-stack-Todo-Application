@@ -13,17 +13,17 @@ This project demonstrates how to run a full MERN stack application using Docker 
 
 ## Architecture
 
-User
-  |
-  v
-Nginx
-  |
-  |------> React Frontend
-  |
-  |------> Node.js API (/api)
-              |
-              v
-           MongoDB
+          User
+           |
+           v
+        Nginx
+           |
+    ----------------
+    |              |
+React Frontend   Node.js API (/api)
+                       |
+                       v
+                    MongoDB
 
 ## Run the Project
 
