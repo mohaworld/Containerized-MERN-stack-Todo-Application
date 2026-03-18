@@ -2,6 +2,9 @@
 
 This project demonstrates how to run a full MERN stack application using Docker and Docker Compose with Nginx as a reverse proxy.
 
+<img width="1012" height="283" alt="image" src="https://github.com/user-attachments/assets/a1de170c-6ec5-48b2-a4dc-736f4f0670e4" />
+
+
 ## Tech Stack
 
 - React (Frontend)
